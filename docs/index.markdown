@@ -1,13 +1,16 @@
 ---
-layout: home
-title: "Laurin L. Curschellas"
+layout: default
+title: Home
 ---
 
-<p style="text-align:center">
-  <img src="/assets/images/profile.svg" alt="Profile" style="max-width:200px;border-radius:50%;">
-</p>
+## About me
 
-Welcome — I’m Laurin Curschellas, a 2nd year PhD student in Economics at the University of California, Davis.  
-My research interests are applied econometrics and environmental economics.
+I'm a 2nd year PhD student in Economics at the University of California, Davis. My research interests are applied econometrics and environmental economics.
 
-You can find links to my Teaching and Research pages in the site nav (coming soon).
+## Research
+
+My research interesets lie in causal inference techniques with cross-sectional data. I am interested in applications on immigration, environmental juistice and wage inequality. 
+
+## Contact
+
+Email: [lcurschellas@ucdavis.edu](mailto:lcurschellas@ucdavis.edu)

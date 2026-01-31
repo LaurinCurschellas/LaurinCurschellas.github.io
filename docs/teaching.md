@@ -1,9 +1,18 @@
 ---
-layout: page
-title: "Teaching"
+layout: default
+title: Teaching
 permalink: /teaching/
 ---
 
-This page will contain information about courses, materials, and teaching experience.  
+## Teaching Experience
 
-(Placeholder page — update me with your content.)
+### Current Teaching
+
+**ECN 142 - Economics & Business Data Analytics** (Instructor: Takuya Ura)
+- Office Hours: Thursday 3:30 - 4:50 PM (SSH 137)
+
+### Past Teaching Assistantships
+
+- ECN 140 (Econometrics)
+- ECN 102 (Analysis of Economic Data)
+- ECN 106 (Decision Making) 

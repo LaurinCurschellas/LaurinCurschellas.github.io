@@ -3,15 +3,16 @@ email: lcurschellas@ucdavis.edu
 description: |
   I'm a 2nd year PhD student in Economics at the University of California, Davis.
   My research interests are applied econometrics and environmental economics.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""     # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: ""
+baseurl: ""
+url: "https://laurincurschellas.github.io"
 github_username: LaurinCurschellas
 
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude common unneeded files
 exclude:
   - .DS_Store
+  - Gemfile
+  - Gemfile.lock
