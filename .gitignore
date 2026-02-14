@@ -1,4 +1,14 @@
+# R/RStudio files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj
+
+# macOS system files
+.DS_Store
+
+# Jekyll build directory
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata

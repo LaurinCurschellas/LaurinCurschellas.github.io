@@ -1,15 +1,22 @@
 title: "Laurin L. Curschellas"
 email: lcurschellas@ucdavis.edu
-description: |
-  I'm a 2nd year PhD student in Economics at the University of California, Davis.
-  My research interests are applied econometrics and environmental economics.
+github_username: LaurinCurschellas
+logo: /assets/images/profile.jpeg
+cv_url: /assets/files/C_V_Curschellas_Laurin_08_09_2023.pdf
 baseurl: ""
 url: "https://laurincurschellas.github.io"
-github_username: LaurinCurschellas
+
+# SEO Settings
+description: "PhD student in Economics at UC Davis. Research interests in applied econometrics, environmental economics, and policy evaluation."
+author:
+  name: "Laurin L. Curschellas"
+  email: "lcurschellas@ucdavis.edu"
 
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude common unneeded files
 exclude:
