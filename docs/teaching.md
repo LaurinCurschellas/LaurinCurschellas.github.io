@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: content-only
 title: Teaching
 permalink: /teaching/
 ---
@@ -10,7 +10,8 @@ permalink: /teaching/
 **ECN 142 - Economics & Business Data Analytics** (Instructor: Takuya Ura)
 - Office Hours: Thursday 3:30 - 4:50 PM (SSH 137)
 
-### Past Teaching Assignments
+### Past Teaching Assignments:
+**Teaching Assistant** 
 - ECN 140 (Econometrics)
 - ECN 102 (Analysis of Economic Data)
 - ECN 106 (Decision Making) 

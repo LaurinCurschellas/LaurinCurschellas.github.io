@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: content-only
 title: Research
 permalink: /research/
 ---
@@ -8,12 +8,12 @@ permalink: /research/
 
 ### Working Papers
 
-Work in progress... 
+Coming soon
 
 ### Research Interests
 
 - Applied Econometrics
 - Labor Economics (Migration and Income Inequality)
-- Environmental Economcis
+- Environmental Economics
 
 
