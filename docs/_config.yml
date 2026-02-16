@@ -7,6 +7,7 @@ baseurl: ""
 url: "https://laurincurschellas.github.io"
 
 # SEO Settings
+name: "Laurin L. Curschellas"
 description: "PhD student in Economics at UC Davis. Research interests in applied econometrics, environmental economics, and policy evaluation."
 author:
   name: "Laurin L. Curschellas"
