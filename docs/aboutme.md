@@ -24,4 +24,4 @@ My research focuses on causal inference techniques with cross-sectional data. I 
 ### Experience
 - Predocotral Research Fellow - FAIR, Norway (2023-24)  
     Centre for Empirical Labor Economics (CELE)
-- [Download full CV (PDF)](/assets/files/C_V_Curschellas_Laurin_08_09_2023.pdf)
+- [Download full CV (PDF)](/assets/files/CV_Curschellas_Laurin_03_2026.pdf)

@@ -12,4 +12,4 @@ My research focuses on causal inference techniques with cross-sectional data. I 
 
 ## Contact
 Email: [lcurschellas@ucdavis.edu](mailto:lcurschellas@ucdavis.edu)  
-CV: [Download CV (PDF)](/assets/files/C_V_Curschellas_Laurin_08_09_2023.pdf)
+CV: [Download CV (PDF)](/assets/files/CV_Curschellas_Laurin_03_2026.pdf)
