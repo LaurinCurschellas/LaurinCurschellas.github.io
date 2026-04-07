@@ -7,11 +7,12 @@ permalink: /teaching/
 ## Teaching Experience
 
 ### Current Teaching
-**ECN 142 - Economics & Business Data Analytics** (Instructor: Takuya Ura)
-- Office Hours: Thursday 3:30 - 4:50 PM (SSH 137)
+**ECN 141 - Economic and Financial Forecasting** (Instructor: Shu Shen)
+- Office Hours: Tuesday 4:00 - 6:00 PM (SSH 137)
 
 ### Past Teaching Assignments:
 **Teaching Assistant** 
+- ECN 142 (Economics & Business Data Analytics)
 - ECN 140 (Econometrics)
-- ECN 102 (Analysis of Economic Data)
 - ECN 106 (Decision Making) 
+- ECN 102 (Analysis of Economic Data)
