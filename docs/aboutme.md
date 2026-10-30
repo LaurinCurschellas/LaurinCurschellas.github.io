@@ -12,6 +12,7 @@ My interests lie in furthering econometric techniques in scenarios where shocks 
 
 In my research I combine structural models of the economy with causal-inference methods. Some of my applications use historical census data from the United States.
 
+
 ### Education
 
 **University of California, Davis**
@@ -23,7 +24,9 @@ In my research I combine structural models of the economy with causal-inference 
 - Masters in Economics - Barcelona School of Economics (2023) 
 - BA in Economics - University of Zürich (2019-2022) 
 
+
 ### Experience
+
 - Predoctoral Research Fellow - FAIR, Norway (2023-24)  
     Centre for Empirical Labor Economics (CELE)
 

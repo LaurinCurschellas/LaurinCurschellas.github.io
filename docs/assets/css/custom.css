@@ -173,7 +173,7 @@ header p {
 header p strong {
   display: block;
   margin: 15px 0 2px 0;
-  color: #222;
+  color: inherit;
 }
 
 header p:first-of-type strong {
@@ -184,6 +184,28 @@ header p a {
   color: #267CB9;
   font-size: 13px;
   word-break: break-word;
+}
+
+.research-title {
+  margin-left: 20px;
+}
+
+section h2 {
+  margin: 20px 0;
+}
+
+section h3 {
+  margin: 10px 0;
+}
+
+section h3 + p {
+  margin-bottom: 10px;
+}
+
+section p,
+section ul,
+section ol {
+  margin-bottom: 10px;
 }
 
 /* Responsive Navigation */
