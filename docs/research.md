@@ -17,10 +17,3 @@ Coming Soon...
 
 **Climate Induced Migration: Re-Visiting the Droughts of the 1930s**
 {: .research-title}
-
-### Research Interests
-
-- Labor Economics
-  - Applications: Migration, Climate Change
-- Econometrics
-- Economic History
