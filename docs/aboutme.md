@@ -29,5 +29,4 @@ In my research I combine structural models of the economy with causal-inference 
 
 - Predoctoral Research Fellow - FAIR, Norway (2023-24)  
     Centre for Empirical Labor Economics (CELE)
-
-[Download full CV (PDF)](/assets/files/CV_Curschellas_Laurin_10_2026.pdf)
+- [Download full CV (PDF)](/assets/files/CV_Curschellas_Laurin_10_2026.pdf)
