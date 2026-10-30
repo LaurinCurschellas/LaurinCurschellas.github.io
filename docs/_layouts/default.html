@@ -42,17 +42,18 @@
     <div class="wrapper">
       <header>
         {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Profile" class="profile-pic" />
+          <img src="{{ site.logo | relative_url }}" alt="Photo of Laurin Curschellas" class="profile-pic" />
+          <p>Photo of Laurin Curschellas</p>
         {% endif %}
 
-        <p><strong>Contact</strong></p>
+        <p>Email</p>
         <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         
-        <p><strong>GitHub</strong></p>
+        <p>GitHub Link</p>
         <p><a href="https://github.com/{{ site.github_username }}">{{ site.github_username }}</a></p>
 
         <p><strong>CV</strong></p>
-        <p><a href="{{ site.cv_url | relative_url }}">Curriculum Vitae</a></p>
+        <p><a href="{{ site.cv_url | relative_url }}">PDF of CV</a></p>
       </header>
       <section>
 

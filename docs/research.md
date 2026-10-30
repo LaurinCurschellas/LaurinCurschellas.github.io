@@ -8,12 +8,19 @@ permalink: /research/
 
 ### Working Papers
 
-Coming soon
+Coming Soon...
+
+### Selected Work in Progress
+
+**Migration Elasticities: Accounting for Spatial Correlation and Worker Heterogeneity**  
+
+**Climate Induced Migration: Re-Visiting the Droughts of the 1930s**  
 
 ### Research Interests
 
-- Applied Econometrics
-- Labor Economics (Migration and Income Inequality)
-- Environmental Economics
+- Labor Economics 
+  - Applications: Migration, Climate Change
+- Econometrics
+- Economic History
 
 
